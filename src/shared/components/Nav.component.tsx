@@ -3,7 +3,7 @@ export const Nav = () => {
     <>
       <nav className="navbar ">
         <div className="nav-item nav-brand">
-          <a href="index.html">Pogs's Blog</a>
+          <a href="index.html">Poga's Blog</a>
         </div>
 
         <li className="nav-item">

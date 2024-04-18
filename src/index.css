@@ -19,6 +19,7 @@
 
 :root {
   --blog-mobile-height: 150px;
+  --blog-card-width: 300px;
   --nav-bar-height: 100px;
   --description-fonts: "Nunito", sans-serif;
 }
