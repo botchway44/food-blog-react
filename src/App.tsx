@@ -1,7 +1,8 @@
 import './App.css';
-import { HomePage } from './pages/Home';
 import './shared/assets/css/blog-card.css';
 import './shared/assets/css/nav.css';
+import './shared/assets/css/header.css';
+import { HomePage } from './pages/Home';
 import Nav from './shared/components/Nav.component';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
